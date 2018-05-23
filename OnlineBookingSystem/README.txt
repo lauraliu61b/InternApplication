@@ -1,0 +1,1 @@
+进入OnlineBookingSystem文件夹后，在Visual Studio下打开此文件夹下的OnlineBookingSystem，运行train_infosystem.cpp中main函数即可。
