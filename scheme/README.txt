@@ -1,0 +1,1 @@
+在命令行运行 python scheme.py查看scheme解释器。（如果python版本为3则运行python3 scheme.py）
