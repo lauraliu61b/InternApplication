@@ -1,1 +1,1 @@
-����OnlineBookingSystem�ļ��к���Visual Studio�´򿪴��ļ����µ�OnlineBookingSystem������train_infosystem.cpp��main�������ɡ�
+采用了链表作为基础数据结构，模拟12306 火车网上订票系统录入车次，查询车次，客户订票、退票等基本功能。
