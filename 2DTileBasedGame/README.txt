@@ -1,0 +1,1 @@
+使用IDE（如Intellij）导入项目，进入2DTileBasedGame\byog\Core，运行Main.java开始游戏。
