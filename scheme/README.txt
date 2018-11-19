@@ -3,4 +3,4 @@
 Create a Scheme Interpreter using Python. This is a group project in Berkeley CS61A. My contribution is implementing functions that tokenize inpput strings and interpret it into python operations.
 
 Language: Python, Scheme.
-Tools: Gitbash.
+Tool: Gitbash.
