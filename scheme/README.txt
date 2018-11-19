@@ -1,1 +1,6 @@
-ÔÚÃüÁîĞĞÔËĞĞ python scheme.py²é¿´scheme½âÊÍÆ÷¡££¨Èç¹ûpython°æ±¾Îª3ÔòÔËĞĞpython3 scheme.py£©
+åœ¨å‘½ä»¤è¡Œè¿è¡Œ python scheme.pyæŸ¥çœ‹schemeè§£é‡Šå™¨ã€‚ï¼ˆå¦‚æœpythonç‰ˆæœ¬ä¸º3åˆ™è¿è¡Œpython3 scheme.pyï¼‰
+
+Create a Scheme Interpreter using Python. This is a group project in Berkeley CS61A. My contribution is implementing functions that tokenize inpput strings and interpret it into python operations.
+
+Language: Python, Scheme.
+Tools: Gitbash.
