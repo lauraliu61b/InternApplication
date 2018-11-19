@@ -1,1 +1,6 @@
-Ê¹ÓÃIDE£¨ÈçIntellij£©µ¼ÈëÏîÄ¿£¬½øÈë2DTileBasedGame\byog\Core£¬ÔËĞĞMain.java¿ªÊ¼ÓÎÏ·¡£
+ä½¿ç”¨IDEï¼ˆå¦‚Intellijï¼‰å¯¼å…¥é¡¹ç›®ï¼Œè¿›å…¥2DTileBasedGame\byog\Coreï¼Œè¿è¡ŒMain.javaå¼€å§‹æ¸¸æˆã€‚
+
+Build up 2D tile-based mazes using rectangular as fundamental shape. By using serialization of Java, we made saving and reloading the game possible. This is a group project in Berkeley CS61B. My contribution is designing the algorithm for the formation of the maze world and implementing the UI.
+
+Language: Java.
+Tool: Intellij.
