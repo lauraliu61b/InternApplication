@@ -1,2 +1,8 @@
-ÔÚ±¾µØÔËĞĞMapServer.java£¬ÔÚä¯ÀÀÆ÷ÖĞ´ò¿ªhttp://localhost:4567/map.html²é¿´ÊµÏÖ¹¦ÄÜ¡£
-¸Ã³ÌĞòÊ¹ÓÃµÄlibraryÔÚ´ËÎÄ¼ş¼ĞÉÏ²ãµÄjavalibÖĞ¡£
+åœ¨æœ¬åœ°è¿è¡ŒMapServer.javaï¼Œåœ¨æµè§ˆå™¨ä¸­æ‰“å¼€http://localhost:4567/map.htmlæŸ¥çœ‹å®ç°åŠŸèƒ½ã€‚
+è¯¥ç¨‹åºä½¿ç”¨çš„libraryåœ¨æ­¤æ–‡ä»¶å¤¹ä¸Šå±‚çš„javalibä¸­ã€‚
+
+Build up a zoom-in, zoom-out and route-searchable map like Google map which can tell the shortest route between two spots in Berkeley based on A* by using the real world, XML-formatted data as input. This is a group work. My contribution is dealing with the data and storing it as a graph, and implement A* algorithm at the back end.
+
+Language: Java.
+Tool: Intellij.
+Type: Web Application.
